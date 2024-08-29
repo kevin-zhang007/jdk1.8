@@ -1,5 +1,8 @@
 # JDK 1.8 64位：Java开发的稳固基石
 
+## 下载地址：我用夸克网盘分享了「jdk_8.0.1310.11_64.exe」，点击链接即可保存。
+链接：https://pan.quark.cn/s/be9fb056ce9c
+
 ## 1、软件介绍
 
 JDK 1.8 64位是Oracle公司发布的一款广泛使用的Java开发工具包（Development Kit）。它为Java开发者提供了编写、测试和运行Java应用程序所需的一切工具和库。JDK 1.8不仅支持64位操作系统，还引入了许多新特性，如lambda表达式、新的日期时间API和Stream API等，极大地增强了Java语言的表达能力和开发效率。
